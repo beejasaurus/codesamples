@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="7128F0E7-9A2B-4386-BC67-F86AC35FEFF4">
+  <lastEdited clientType="local-build-20130102" date="2013-01-02 12:59:33 -0500"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;Our Family Blog&lt;/i&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_The_new_site%21_files/shapeimage_1.png" left="0px" top="0px" width="390px" height="285px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday, November 30, 2012</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The new site!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The new site is just about done now! I hope Master Choi likes it! I hope everyone had a great Thanksgiving!</richText>
+  </textBox>
+</content>

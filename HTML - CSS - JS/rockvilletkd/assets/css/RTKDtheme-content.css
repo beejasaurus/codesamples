@@ -1,0 +1,109 @@
+body {
+        padding-top:0px; /* 60px to make the container go all the way to the bottom of the topbar */
+        background-color:#eee;
+      }
+      
+      .masthead {
+        background-color:#336699;
+        height:150px;
+        margin-top:0px;
+      }
+      
+      .masthead .container {
+        background-size:100%;
+        background-repeat:no-repeat;
+        height:150px;
+      }
+      
+      .masthead h1{
+        font-size:50px;
+        text-align:right;
+        color:#eee;
+        padding-top:10px;
+      }
+      
+      .masthead p{
+        padding-top:0px;
+        font-size:15px;
+        text-align:right;
+        color:#eee;
+      }
+      
+      .masthead form{
+        float:right;
+        clear:both;
+      }
+      .menu {
+        height:40px;
+        padding-top:5px;
+        padding-bottom:30px;
+      }
+      
+      .navlinks {
+        text-align:right;
+      }
+      
+        .nav-pills > li > a:hover {
+        color: #ffffff;
+        background-color: #0088cc;
+      }
+      
+      .nav-pills {
+        font-size:1.2em;
+      }
+      
+      .logo {
+        padding-top:10px;
+        font-size:20px;
+        background-image:url('../images/usrma/logo.png');
+        *background-image:none;
+        background-repeat:no-repeat;
+        height:30px;
+        background-size:contain;
+      }
+      
+      .logo p{
+        display:none;
+        *display: inline;
+      }
+  
+        .content-area {
+          padding-top:20px;
+          padding-bottom:150px;
+        }
+      
+      .middle {
+        border-left:solid 1px #000000;
+        border-right:solid 1px #000000; 
+      }
+      
+      .footer-area {
+        background-color:#ddd;
+        height:100px;
+      }
+      
+      .lead {
+        padding-bottom:0px;
+        margin-bottom:0px;
+      }
+      
+        .footer {
+        position:relative;
+        margin-height:-150px;
+        height:150px;
+        clear:both;
+        padding-top:20px;
+        background-color:#ddd;
+      }
+      
+      #wrap {
+        min-height:100%;
+      }
+      
+  .input-age {
+    width:2em;
+    }
+      
+  .input-phone {
+    width:8em;
+    }
