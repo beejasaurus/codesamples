@@ -6,7 +6,7 @@ Example code to show my programming style
 The following folders are snippets of code from the respective project.
 You can find the full context within Source Codes:
 
-* Abacomps/ (HTML, CSS, JS, PHP Templating with Blade - http://www.bryanneva.com/abacomps)
+* Abacomps/ (HTML, CSS, JS, Templating with Blade - http://www.bryanneva.com/abacomps)
 
 * Pedometer Metrics/ (PHP, MySQL - http://www.pedometermetrics.com)
 
